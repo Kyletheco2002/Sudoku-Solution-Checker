@@ -103,7 +103,7 @@ int main()
     Author/Writer's Profile Link:
     https://stackoverflow.com/users/4656343/byenga
     License: https://creativecommons.org/licenses/by-sa/3.0/
-    [No changes were made]
+    [Minor changes were made, 2d character array was switched into a 2d integer vector]
     */
 
     vector <vector <int>> sudokuBoard = {{8,3,5,4,1,6,9,2,7},
