@@ -5,6 +5,16 @@
 
 using namespace std;
 
+/*
+Attribution Guide is from Stack Overflow website
+Link: https://stackoverflow.blog/2009/06/25/attribution-required/
+Author: Jeff Atwood
+Author's Profile Link:
+https://stackoverflow.blog/author/jeff-atwood/
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[No changes were made]
+*/
+
 //checks if the given sudoku solution has exactly 9 rows and 9 columns
 bool is9X9grid (const vector <vector <int>> &sudokuBoard){
 
@@ -99,8 +109,8 @@ int main()
     /*
     test case is from Stack Overflow
     Link: https://stackoverflow.com/questions/5484629/check-if-sudoku-solution-is-valid
-    Author/Writer: byenga
-    Author/Writer's Profile Link:
+    Author: byenga
+    Author's Profile Link:
     https://stackoverflow.com/users/4656343/byenga
     License: https://creativecommons.org/licenses/by-sa/3.0/
     [Minor changes were made, 2d character array was switched into a 2d integer vector]
