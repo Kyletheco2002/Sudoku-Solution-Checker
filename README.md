@@ -1,6 +1,8 @@
 # Sudoku-Solution-Checker
 This repository includes a sudoku solution checker program made using C++ as a course work done for a college class.
 
+This program was developed and run using Code::Blocks
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
